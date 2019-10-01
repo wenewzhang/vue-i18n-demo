@@ -16,7 +16,7 @@ export default {
   props: {
     msg: String
   },
-  name: 'locale-changer',
+
   data () {
     return { langs: ['en', 'de', 'cn'] }
   }
